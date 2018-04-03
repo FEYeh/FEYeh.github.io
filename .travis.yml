@@ -31,6 +31,6 @@ after_script:
 branches:
   only:
     - hexo
-env:
- global:
-   - GH_REF: github.com/FEYeh/FEYeh.github.io.git
+# env:
+#  global:
+#    - GH_REF: github.com/FEYeh/FEYeh.github.io.git
