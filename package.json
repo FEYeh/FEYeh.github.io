@@ -9,7 +9,8 @@
     "build": "hexo g"
   },
   "dependencies": {
-    "hexo": "^3.1.0",
+    "concat-files": "^0.1.1",
+    "hexo": "^3.7.0",
     "hexo-algoliasearch": "^0.3.0",
     "hexo-all-minifier": "^0.2.6",
     "hexo-deployer-git": "^0.2.0",
@@ -28,7 +29,8 @@
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-renderer-swig": "^1.1.0",
     "hexo-server": "^0.1.2",
-    "hexo-wordcount": "^3.0.2"
+    "hexo-wordcount": "^3.0.2",
+    "image-min": "^0.3.2"
   },
   "devDependencies": {}
 }
