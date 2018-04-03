@@ -108,17 +108,7 @@ sitemap:
   html_min: true
   gzip: true
 
-css_minifier:
-  enable: true
-  exclude: 
-    - '*.min.css'
-js_minifier:
-  enable: true
-  mangle: true
-  exclude: 
-    - '*.min.js'
-image_minifier:
-  enable: false
+all_minifier: true
 
 offline:
   maximumFileSizeToCacheInBytes: 10485760
