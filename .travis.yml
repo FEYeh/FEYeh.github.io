@@ -30,7 +30,7 @@ after_script:
 
 branches:
   only:
-    - hexo
+    - blog-source
 # env:
 #  global:
 #    - GH_REF: github.com/FEYeh/FEYeh.github.io.git
