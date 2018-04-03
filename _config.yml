@@ -101,7 +101,7 @@ sitemap:
 # Optimize
 ## Optimize
   # Defaults
-  image_min: true
+  image_min: false
   css_concat: true
   css_min: true
   js_concat: true
