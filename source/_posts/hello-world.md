@@ -1,6 +1,6 @@
 title: 世界，你好！
 categories:
-  - 测试
+  - hello
 date: 2018-04-03 17:40:21
 tags:
 ---
