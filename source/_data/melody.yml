@@ -95,14 +95,14 @@ post_copyright:
 #       img: https://ws1.sinaimg.cn/large/8700af19ly1fjmbbmp7uwj20jm0jmt9a.jpg
 #       text: 微信打赏
 
-addThis:
-  enable: true
-  pubid: ra-5994f8f0fea9a5f4
+# addThis:
+#   enable: true
+#   pubid: ra-5994f8f0fea9a5f4
 
-disqus:
-  enable: true
-  shortname: molunerfinn
-  count: true
+# disqus:
+#   enable: true
+#   shortname: molunerfinn
+#   count: true
 
 # adv:
 #   enable: true
