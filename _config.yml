@@ -122,6 +122,11 @@ js_minifier:
 image_minifier:
   enable: false
 
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+  
 offline:
   maximumFileSizeToCacheInBytes: 10485760
   staticFileGlobs:
