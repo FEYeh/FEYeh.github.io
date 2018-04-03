@@ -99,10 +99,10 @@ post_copyright:
 #   enable: true
 #   pubid: ra-5994f8f0fea9a5f4
 
-# disqus:
-#   enable: true
-#   shortname: molunerfinn
-#   count: true
+disqus:
+  enable: true
+  shortname: ebooks4coding
+  count: true
 
 # adv:
 #   enable: true
