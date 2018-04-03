@@ -110,6 +110,18 @@ sitemap:
 
 all_minifier: true
 
+css_minifier:
+  enable: true
+  exclude: 
+    - '*.min.css'
+js_minifier:
+  enable: true
+  mangle: true
+  exclude: 
+    - '*.min.js'
+image_minifier:
+  enable: false
+
 offline:
   maximumFileSizeToCacheInBytes: 10485760
   staticFileGlobs:
