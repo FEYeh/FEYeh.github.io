@@ -73,6 +73,9 @@ feed:
 
 # 将appId等放到travis中管理
 algolia: 
+  applicationID: "7SER0HTVYZ"
+  apiKey: "b8e786caffbbee124ee8651ed7c103ea"
+  adminApiKey: "de2574761ffbb28826e97bbebd58cca6"
   chunkSize: 5000
   fields:
     - title
