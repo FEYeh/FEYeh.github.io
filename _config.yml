@@ -66,26 +66,27 @@ pagination_dir: page
 theme: melody
 Plugins: 
   - hexo-generator-feed
+  - hexo-algoliasearch
 feed: 
   type: atom
   path: atom.xml
   limit: 20
 
-# 将appId等放到travis中管理
 algolia: 
-  applicationID: "7SER0HTVYZ"
+  appId: "7SER0HTVYZ"
   apiKey: "b8e786caffbbee124ee8651ed7c103ea"
   adminApiKey: "de2574761ffbb28826e97bbebd58cca6"
   chunkSize: 5000
+  indexName: "myblog"
   fields:
-    - title
-    - tags
-    - categories
+    - content:strip:truncate,0,500
     - excerpt:strip
-    - content:strip
-    - slug
+    - gallery
     - permalink
-    - path
+    - photos
+    - slug
+    - tags
+    - title
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
