@@ -155,7 +155,7 @@ offline:
     - urlPattern: /*
       handler: cacheFirst
       options:
-        origin: molunerfinn.com
+        origin: ebooks4coding.com
     - urlPattern: /*
       handler: cacheFirst
       options:
