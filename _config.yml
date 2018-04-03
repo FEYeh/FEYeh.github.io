@@ -71,6 +71,7 @@ feed:
   path: atom.xml
   limit: 20
 
+# 将appId等放到travis中管理
 algolia: 
   chunkSize: 5000
   fields:
