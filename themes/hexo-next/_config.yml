@@ -404,10 +404,10 @@ algolia_search:
     hits_stats: "${hits} results found in ${time} ms"
 
 algolia: 
-  applicationID: "BGLU1ICJFH"
-  apiKey: "de05646e7bb736b8478e6854743e5963"
-  adminApiKey: "32f0096d77eb438d15625b2509a11984"
-  indexName: "mofinn"
+  applicationID: "7SER0HTVYZ"
+  apiKey: "b8e786caffbbee124ee8651ed7c103ea"
+  adminApiKey: "de2574761ffbb28826e97bbebd58cca6"
+  indexName: "myblog"
   chunkSize: 1000
   fields:
     - title
