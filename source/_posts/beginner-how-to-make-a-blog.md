@@ -1,7 +1,7 @@
 title: github + hexo(melody) + travis 做免费且高大上的博客
 categories:
   - 博客
-date: 2018-04-03 17:40:21
+date: 2018-04-06 12:16:00
 tags: blog
 ---
 
@@ -40,5 +40,3 @@ hexo server
 ### 参考
 [hexo持久化构建以及给自有域名github-page上HTTPS](https://molunerfinn.com/hexo-travisci-https/)
 [使用 Travis 自动部署 Hexo 到 Github 与 自己的服务器](https://segmentfault.com/a/1190000009054888)
-
-## 一开始还是不大
