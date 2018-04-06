@@ -64,12 +64,16 @@ cdn:
 
 # Post info settings
 
-avatar: https://ws1.sinaimg.cn/large/8700af19ly1fm4iuz15lsj20ix0iw0u8
+avatar: http://ww1.sinaimg.cn/large/837a95abgy1fq2rflvfzbj20dm0dgtal.jpg
 
-top_img: https://ws1.sinaimg.cn/large/8700af19ly1fnp7q2phkzj21hc0xc0yl 
+top_img: http://ww1.sinaimg.cn/large/837a95abgy1fq2rd7moy3j21hc0zlaj8.jpg
 
 wordcount:
   enable: true
+
+auto_excerpt:
+  enable: true
+  length: 150
 
 social:
   github: https://github.com/FEYeh
@@ -87,13 +91,13 @@ post_copyright:
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-# QR_code:
-#   - itemlist:
-#       img: https://ws1.sinaimg.cn/large/8700af19ly1fjmba1eumhj20jz0jzq4b.jpg
-#       text: 支付宝打赏
-#   - itemlist:
-#       img: https://ws1.sinaimg.cn/large/8700af19ly1fjmbbmp7uwj20jm0jmt9a.jpg
-#       text: 微信打赏
+QR_code:
+  - itemlist:
+      img: http://ww1.sinaimg.cn/large/837a95abgy1fq2sn9fvyyj2099099dh3.jpg
+      text: 支付宝赞赏
+  - itemlist:
+      img: http://ww1.sinaimg.cn/large/837a95abgy1fq2sn99v03j2099099my5.jpg
+      text: 微信赞赏
 
 addThis:
   enable: true
