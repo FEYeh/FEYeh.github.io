@@ -136,6 +136,7 @@ tags: 前端
 ### fetch
 
 ### Websocket
+* [看完让你彻底搞懂Websocket原理](https://blog.csdn.net/frank_good/article/details/50856585)
 
 ### CSRF/XSS
 
