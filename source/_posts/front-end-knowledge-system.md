@@ -94,6 +94,7 @@ tags: 前端
 ### HTML4/XHTML/HTML5
 
 ### HTML DOM
+* [重排和重绘](https://www.cnblogs.com/cencenyue/p/7646718.html)
 
 ### FORM 表单
 
@@ -128,6 +129,7 @@ tags: 前端
 ### XMLHTTPRequest
 
 ### HTTP 缓存
+* [彻底弄懂HTTP缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)
 
 ### 轮询/长连接
 
@@ -194,6 +196,9 @@ tags: 前端
 ### 高阶组件
 
 ### GraphQL/Relay
+
+### React Context
+* [Learn the React Context API with a Practical Example You Can Bring to Your Apps](https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c)
 
 ### React Fiber
 
