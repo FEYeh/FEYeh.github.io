@@ -1,10 +1,9 @@
 
 title: 7 Hacks for ES6 Developers
 categories:
-
-- 前端
-  date: 2018-08-24 20:42:00
-  tags: 前端
+  - 前端
+date: 2018-08-24 20:42:00
+tags: 前端
 
 ---
 7 Hacks for ES6 Developers
