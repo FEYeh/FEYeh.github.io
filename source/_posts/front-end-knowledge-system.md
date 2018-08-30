@@ -17,6 +17,9 @@ tags: 前端
 
 ### EventLoop & 异步模型
 
+### bind模拟实现
+* [JavaScript 之 call和apply，bind 的模拟实现](https://blog.csdn.net/qq_40479190/article/details/78324270)
+
 ## Level 2
 
 ### ES6、ES7、ESNext
@@ -174,10 +177,12 @@ tags: 前端
 ### 单向数据流/flux（React）
 
 ### Redux（React）
+* [Redux原理](https://www.cnblogs.com/hhhyaaon/p/5860159.html)
 
 ### MobX（React）
 
 ### Diff算法（React）
+* [图解React Diff算法及新架构Fiber](https://yq.aliyun.com/articles/586669?spm=a2c4e.11153940.blogcont586668.16.73e34227t1wmBv)
 
 ### React Native
 
@@ -253,3 +258,7 @@ tags: 前端
 ## Level 3
 
 ### dev-tool 内存泄露检查
+
+# 代码风格
+
+* [Clean Code vs. Dirty Code: React Best Practices](https://americanexpress.io/clean-code-dirty-code/)
