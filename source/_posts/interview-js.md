@@ -139,8 +139,7 @@ apply和call的区别是apply接受数组作为参数，而call是接受逗号�
 
 代码：
 ```js
-apply，call和bind的区别
-JavaScript
+
 function Person() {}
 Person.prototype.sayName() { console.log(this.name); }
 ​

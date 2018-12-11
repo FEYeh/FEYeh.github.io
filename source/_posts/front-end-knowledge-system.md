@@ -31,6 +31,9 @@ tags: 前端
 
 ### 地狱回调 & Promise
 
+### 函数节流
+* [throttle & debounce](https://juejin.im/post/5b88a54751882542ea13d253)
+
 ## Level 3
 
 ### 函数式编程
@@ -60,6 +63,9 @@ tags: 前端
 ### 如何进行定位
 
 ### vertial-align 的几种属性
+
+### 居中
+* [CSS实现水平垂直居中的10种方式（史上最全）](https://juejin.im/post/5b9a4477f265da0ad82bf921)
 
 ## Level 2
 
@@ -198,11 +204,17 @@ tags: 前端
 
 ### dirty check（Angular）
 
+### Koa
+* [koa-route](https://juejin.im/post/5b9a2f07e51d450e7d099492)
+* [全面理解 koa-router](https://cnodejs.org/topic/5b13c12157137f22415c4892)
 ## Level 3
 
 ### 高阶组件
 
 ### GraphQL/Relay
+
+### React setState
+[react的setState如何知道该做什么？](https://juejin.im/post/5c0cdb95f265da616f6fc9dd)
 
 ### React Context
 * [Learn the React Context API with a Practical Example You Can Bring to Your Apps](https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c)
@@ -222,6 +234,7 @@ tags: 前端
 ### gulp
 
 ### node
+* [你不知道的Node.js性能优化](https://zhuanlan.zhihu.com/p/50055740)
 
 ### npm/yarn
 
